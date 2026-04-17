@@ -1,3 +1,7 @@
+## Preview
+
+![Dashboard](dashboard.png)
+
 \# Finance Analysis Project
 
 
