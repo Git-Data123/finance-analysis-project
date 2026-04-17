@@ -2,6 +2,7 @@
 
 🔍 Overview
 This project explores customer investment behaviour using Python and data analysis techniques. The goal was to identify trends in investment preferences, demographics, and financial decision-making patterns.
+![Dashboard](dashboard.png)
 
 ---
 
@@ -34,10 +35,9 @@ This project explores customer investment behaviour using Python and data analys
 📊 Sample Visualisations
 <img width="606" height="432" alt="dashboard (2)" src="https://github.com/user-attachments/assets/20691ee1-f920-4d64-9416-36b39b8ecc16" />
 
-![Dashboard](dashboard.png)
 
 ---
-💡 Business Value
+💡 Value to Business
 This analysis helps financial institutions:
 - Understand customer investment behaviour
 - Tailor financial products to specific demographics
