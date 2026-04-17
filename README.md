@@ -2,6 +2,8 @@
 
 🔍 Overview
 This project explores customer investment behaviour using Python and data analysis techniques. The goal was to identify trends in investment preferences, demographics, and financial decision-making patterns.
+
+
 ![Dashboard](dashboard.png)
 
 ---
